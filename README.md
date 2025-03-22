@@ -45,16 +45,16 @@
 <!-- Project Cards -->
 <p align="center">
   <a href="https://github.com/Joaco3101/drone-delivery">
-    <img src="https://img.shields.io/badge/📦%20Drone%20Delivery%20System-4d88ff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📦%20Drone%20Delivery%20System-1c1c1c?style=for-the-badge">
   </a>
   <a href="https://github.com/Joaco3101/automotive-seating">
-    <img src="https://img.shields.io/badge/🚗%20Automotive%20Seating%20Design-5c7fff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚗%20Automotive%20Seating%20Design-1c1c1c?style=for-the-badge">
   </a>
   <a href="https://github.com/Joaco3101/thermal-vacuum">
-    <img src="https://img.shields.io/badge/💨%20Thermal%20Vacuum%20System-4d88ff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/💨%20Thermal%20Vacuum%20System-1c1c1c?style=for-the-badge">
   </a>
   <a href="https://github.com/Joaco3101/wireframe-modeling">
-    <img src="https://img.shields.io/badge/📐%20Wireframe%20Modeling-5c7fff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📐%20Wireframe%20Modeling-1c1c1c?style=for-the-badge">
   </a>
 </p>
 
