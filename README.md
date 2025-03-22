@@ -16,7 +16,7 @@ Hey, I'm <span style="color:#dddddd;">Joaquin Coaquira</span>
   <a href="https://yourportfolio.com" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/joaquinc" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaquin-coaquira" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
