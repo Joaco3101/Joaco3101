@@ -42,8 +42,8 @@
 ---
 
 📫 **Let's Connect!**  
-📧 **Email:** [YourEmail@example.com]  
-🔗 **LinkedIn:** [linkedin.com/in/joaquinc](#)  
+📧 **Email:** [joaquingenaro2003@gmail.com]  
+🔗 **LinkedIn:** [linkedin.com/in/joaquin-coaquira/](#)  
 📂 **Portfolio:** [yourportfolio.com](#)  
 
 🚀 *Engineering the Future, One Design at a Time!*  
