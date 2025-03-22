@@ -1,13 +1,3 @@
-<!-- Centered Header with Icons -->
-<h1 align="center"> 
-Hey, I'm <span style="color:#dddddd;">Joaquin Coaquira</span>  
-</h1>
-
-<p align="center">
-  🚀 <b>Mechanical Engineer | Product Design Engineer</b>  
-  <br> 💡 Passionate about <b>CAD, GD&T, FEA, DFM/DFA, and Mechatronics</b>
-  <br> 🛠 Exploring <b>compact systems, alternative propulsion, and advanced manufacturing</b>  
-</p>
 
 <p align="center">
   <a href="https://github.com/Joaco3101" title="GitHub Projects">
@@ -24,14 +14,15 @@ Hey, I'm <span style="color:#dddddd;">Joaquin Coaquira</span>
 ---
 
 <!-- About Section -->
-<h2 align="center">About Me</h2>
+> [!IMPORTANT]  
+> Hey, I'm **Joaquin Coaquira**!  
+>
+> I'm a **Mechanical Engineer** specializing in **Product Design, CAD, GD&T, FEA, and DFM/DFA**.  
+> My passion lies in developing **compact systems, alternative propulsion methods, and advanced manufacturing techniques**.  
+> When I'm not designing, I'm exploring **mechatronics, controls, and simulation** to push the limits of engineering innovation.  
+>
+> If you enjoy my work, let's connect!
 
-> **🔹 Mechanical Engineer with expertise in Product Design, CAD Modeling, and FEA.**  
-> **🔹 Passionate about designing efficient, manufacturable, and compact mechanical systems.**  
-> **🔹 Always exploring new propulsion methods and pushing the boundaries of engineering.**  
-> **🔹 Skilled in design validation, mechatronics, and manufacturing processes.**  
-
----
 
 <!-- Skills Section -->
 <h2 align="center">Skills & Expertise</h2>
@@ -108,7 +99,6 @@ Hey, I'm <span style="color:#dddddd;">Joaquin Coaquira</span>
 <p align="center">
   📧 **Email:** [joaquingenaro2003@gmail.com]  
   🔗 **LinkedIn:** [linkedin.com/in/joaquin-coaquira](#)  
-  📂 **Portfolio:** [yourportfolio.com](#)  
 </p>
 
 ---
