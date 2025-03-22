@@ -15,7 +15,8 @@
 
 <!-- About Section -->
 <h2 align="center">About Me</h2>
-> [!IMPORTANT]  
+
+>[!IMPORTANT]
 > Hey, I'm **Joaquin Coaquira**!  
 >
 > I'm a **Mechanical Engineer** specializing in **Product Design, CAD, GD&T, FEA, and DFM/DFA**.  
