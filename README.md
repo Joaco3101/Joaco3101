@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Joaco3101" title="Mechanical Engineering Projects"><img src="https://img.shields.io/badge/Mechanical_Engineering-0055A4.svg?style=for-the-badge" alt="Mechanical Engineering"></a>
   <a href="https://yourportfolio.com" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-1d1d1d.svg?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/joaquinc" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaquin-coaquira/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
