@@ -11,9 +11,10 @@
   </a>
 </p>
 
----
+
 
 <!-- About Section -->
+<h2 align="center">About Me</h2>
 > [!IMPORTANT]  
 > Hey, I'm **Joaquin Coaquira**!  
 >
