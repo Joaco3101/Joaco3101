@@ -43,7 +43,7 @@
 
 📫 **Let's Connect!**  
 📧 **Email:** [joaquingenaro2003@gmail.com]  
-🔗 **LinkedIn:** [linkedin.com/in/joaquin-coaquira/](#)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/joaquin-coaquira/](#)  
 📂 **Portfolio:** [yourportfolio.com](#)  
 
 🚀 *Engineering the Future, One Design at a Time!*  
