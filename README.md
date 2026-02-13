@@ -23,7 +23,7 @@
 > My passion lies in developing **compact systems, alternative propulsion methods, and advanced manufacturing techniques**.  
 > When I'm not designing, I'm exploring **mechatronics, controls, and simulation** to push the limits of engineering innovation.  
 >
-> If you enjoy my work, let's connect!
+
 
 
 <!-- Skills Section -->
