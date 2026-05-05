@@ -1,1 +1,152 @@
+<!-- assets/engineering-banner.svg -->
+<svg width="1400" height="420" viewBox="0 0 1400 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Joaquin Coaquira engineering profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#061826"/>
+      <stop offset="100%" stop-color="#0B2742"/>
+    </linearGradient>
 
+    <radialGradient id="blueGlow" cx="72%" cy="42%" r="45%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#1F6FEB" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="clip">
+      <rect width="1400" height="420" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="420" rx="32" fill="url(#bg)"/>
+    <rect width="1400" height="420" fill="url(#blueGlow)"/>
+
+    <!-- subtle grid -->
+    <g opacity="0.12">
+      <path d="M0 70H1400 M0 140H1400 M0 210H1400 M0 280H1400 M0 350H1400" stroke="#7DD3FC"/>
+      <path d="M100 0V420 M200 0V420 M300 0V420 M400 0V420 M500 0V420 M600 0V420 M700 0V420 M800 0V420 M900 0V420 M1000 0V420 M1100 0V420 M1200 0V420 M1300 0V420" stroke="#7DD3FC"/>
+    </g>
+
+    <!-- animated scanning beam -->
+    <rect x="-420" y="0" width="360" height="420" fill="url(#scan)" opacity="0.22">
+      <animate attributeName="x" values="-420;1460" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- top micro status line -->
+    <g font-family="Inter, Segoe UI, Arial" font-size="13" letter-spacing="2">
+      <text x="70" y="54" fill="#60A5FA">SYSTEMS ENGINEERING PROFILE</text>
+      <circle cx="326" cy="49" r="4" fill="#22C55E">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="342" y="54" fill="#8FA7BD">THERMAL · SIMULATION · PRODUCT DESIGN</text>
+    </g>
+
+    <!-- main text -->
+    <text x="70" y="145" font-family="Inter, Segoe UI, Arial" font-size="64" font-weight="800" fill="#FFFFFF">
+      Joaquin Coaquira
+    </text>
+
+    <text x="74" y="195" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="650" fill="#58A6FF">
+      Mechanical / Product Engineer
+    </text>
+
+    <text x="74" y="238" font-family="Inter, Segoe UI, Arial" font-size="21" fill="#C7D7E8">
+      High-Power Thermal Systems · CFD/FEA · GD&amp;T · DFM/DFA
+    </text>
+
+    <text x="74" y="280" font-family="Inter, Segoe UI, Arial" font-size="17" fill="#8FA7BD">
+      Designing manufacturable electro-mechanical systems where heat transfer, reliability, and production constraints intersect.
+    </text>
+
+    <!-- animated underline -->
+    <rect x="74" y="306" width="560" height="3.5" rx="2" fill="#1F6FEB" opacity="0.35"/>
+    <rect x="74" y="306" width="110" height="3.5" rx="2" fill="#38BDF8" filter="url(#softGlow)">
+      <animate attributeName="x" values="74;524;74" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- skill chips -->
+    <g font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="600">
+      <rect x="74" y="335" width="118" height="34" rx="17" fill="#0B1220" stroke="#1F6FEB" opacity="0.9"/>
+      <text x="103" y="357" fill="#DCEBFF">Thermal</text>
+
+      <rect x="205" y="335" width="94" height="34" rx="17" fill="#0B1220" stroke="#1F6FEB" opacity="0.9"/>
+      <text x="230" y="357" fill="#DCEBFF">CFD</text>
+
+      <rect x="312" y="335" width="92" height="34" rx="17" fill="#0B1220" stroke="#1F6FEB" opacity="0.9"/>
+      <text x="337" y="357" fill="#DCEBFF">FEA</text>
+
+      <rect x="417" y="335" width="102" height="34" rx="17" fill="#0B1220" stroke="#1F6FEB" opacity="0.9"/>
+      <text x="443" y="357" fill="#DCEBFF">CAD</text>
+
+      <rect x="532" y="335" width="132" height="34" rx="17" fill="#0B1220" stroke="#1F6FEB" opacity="0.9"/>
+      <text x="558" y="357" fill="#DCEBFF">Product</text>
+    </g>
+
+    <!-- right technical module -->
+    <g transform="translate(850 78)">
+      <g opacity="0.22">
+        <path d="M0 20L330 0L480 95L145 130Z" fill="none" stroke="#7DD3FC"/>
+        <path d="M145 130V250L480 210V95" fill="none" stroke="#7DD3FC"/>
+        <path d="M0 20V142L145 250" fill="none" stroke="#7DD3FC"/>
+      </g>
+
+      <g filter="url(#softGlow)">
+        <rect x="70" y="72" width="250" height="150" rx="22" fill="#07111D" stroke="#38BDF8" stroke-width="2"/>
+        <rect x="112" y="108" width="166" height="77" rx="10" fill="none" stroke="#93C5FD" stroke-width="1.5"/>
+
+        <circle cx="108" cy="87" r="11" fill="none" stroke="#93C5FD"/>
+        <circle cx="282" cy="87" r="11" fill="none" stroke="#93C5FD"/>
+        <circle cx="108" cy="207" r="11" fill="none" stroke="#93C5FD"/>
+        <circle cx="282" cy="207" r="11" fill="none" stroke="#93C5FD"/>
+
+        <path d="M320 128H420 M320 166H420" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+        <path d="M-30 128H70 M-30 166H70" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+
+        <path d="M135 146C170 120 220 120 255 146C220 172 170 172 135 146Z" fill="none" stroke="#22C55E" stroke-width="2" opacity="0.8">
+          <animate attributeName="opacity" values="0.35;0.9;0.35" dur="2.8s" repeatCount="indefinite"/>
+        </path>
+
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4.6s" repeatCount="indefinite"/>
+      </g>
+
+      <!-- flowing coolant lines -->
+      <g fill="none" stroke-linecap="round" opacity="0.85">
+        <path d="M-15 128H65" stroke="#22D3EE" stroke-width="3" stroke-dasharray="12 14">
+          <animate attributeName="stroke-dashoffset" values="0;-52" dur="1.8s" repeatCount="indefinite"/>
+        </path>
+        <path d="M325 128H415" stroke="#22D3EE" stroke-width="3" stroke-dasharray="12 14">
+          <animate attributeName="stroke-dashoffset" values="0;-52" dur="1.8s" repeatCount="indefinite"/>
+        </path>
+        <path d="M325 166H415" stroke="#38BDF8" stroke-width="3" stroke-dasharray="12 14">
+          <animate attributeName="stroke-dashoffset" values="0;52" dur="1.8s" repeatCount="indefinite"/>
+        </path>
+      </g>
+
+      <!-- data labels -->
+      <g font-family="Inter, Segoe UI, Arial" font-size="12" fill="#8FA7BD" opacity="0.85">
+        <text x="60" y="258">CHT MODEL</text>
+        <text x="250" y="258">FLOW PATH</text>
+        <text x="365" y="118">OUTLET</text>
+        <text x="-24" y="118">INLET</text>
+      </g>
+    </g>
+
+    <!-- border -->
+    <rect x="1" y="1" width="1398" height="418" rx="32" fill="none" stroke="#1E3A5F" stroke-width="2"/>
+  </g>
+</svg>
