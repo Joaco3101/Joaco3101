@@ -5,7 +5,6 @@
 </p>
 
 <!-- HEADER -->
-<h1 align="center">Joaquin G. Coaquira</h1>
 
 <p align="center">
   <b>Mechanical / Product Engineer</b><br>
