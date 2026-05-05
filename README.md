@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="Images/header.svg" width="100%"></img>
+<img src="Images/engineering-banner.svg" width="100%"></img>
 
 </p>
 
