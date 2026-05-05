@@ -1,3 +1,5 @@
+<img src="Images/header.svg"></img>
+
 <!-- HEADER -->
 <h1 align="center">Joaquin G. Coaquira</h1>
 
