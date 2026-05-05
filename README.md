@@ -1,4 +1,3 @@
-# Joaquin Coaquira
 
 <p align="center">
 
@@ -7,6 +6,9 @@
 </p>
 
 <!-- HEADER -->
+
+# Joaquin Coaquira
+
 
 <p align="center">
   <b>Mechanical / Product Engineer</b><br>
