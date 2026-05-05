@@ -59,23 +59,6 @@ I operate at the level where <b>physics, manufacturability, and cost</b> must al
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">Selected Work</h2>
-
-<p align="center">
-  <a href="https://github.com/Joaco3101/drone-delivery">
-    <img src="https://img.shields.io/badge/Autonomous%20Drone%20System-111111?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Joaco3101/automotive-seating">
-    <img src="https://img.shields.io/badge/Automotive%20Mechanical%20Design-111111?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Joaco3101/thermal-vacuum">
-    <img src="https://img.shields.io/badge/Thermal%20%26%20Vacuum%20Systems-111111?style=for-the-badge">
-  </a>
-</p>
-
----
-
 <!-- CONTACT -->
 <h2 align="center">Contact</h2>
 
