@@ -1,4 +1,9 @@
 
+<p align="right">
+  <sup>
+    Joaquin Coaquira
+  </sup>
+</p>
 <p align="center">
 
 <img src="Images/header_1.svg" width="100%"></img>
@@ -7,7 +12,7 @@
 
 <!-- HEADER -->
 
-# Joaquin Coaquira
+
 
 
 <p align="center">
