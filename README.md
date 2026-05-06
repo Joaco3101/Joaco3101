@@ -1,7 +1,7 @@
 
 <p align="right">
   <sup>
-    Joaquin Coaquira
+    Joaquin Coaquira © 2026 Joaquin Coaquira. All rights reserved.
   </sup>
 </p>
 <p align="center">
