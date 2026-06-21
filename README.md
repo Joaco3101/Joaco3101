@@ -1,16 +1,16 @@
 <p align="right">
-  <sup>
-    © 2026 Joaquin Coaquira. All rights reserved.
-  </sup>
+  <sup>© 2026 Joaquin Coaquira. All rights reserved.</sup>
 </p>
 
 <p align="center">
   <img src="Images/header_1.svg" width="100%" alt="Joaquin Coaquira Engineering Portfolio">
 </p>
 
+<br>
+
 <p align="center">
-  <b>Mechanical / Product Engineer</b><br>
-  Thermal Systems • Electro-Mechanical Design • Simulation-Driven Development
+  <strong>Mechanical / Product Engineer</strong><br>
+  Thermal Systems · Electro-Mechanical Design · Product Development
 </p>
 
 <p align="center">
@@ -22,58 +22,80 @@
   </a>
 </p>
 
----
-
-<h2 align="center">About</h2>
-
-<p align="center" style="max-width: 700px; margin: auto;">
-I design and develop <b>high-performance engineering systems</b> at the intersection of thermal, mechanical, and electrical design.
-<br><br>
-My work focuses on <b>high-heat-flux systems, liquid cooling, and electro-thermal product development</b>, taking designs from <b>concept through simulation, validation, and production</b>.
-<br><br>
-I work where <b>physics, manufacturability, reliability, and cost</b> must align.
-</p>
+<br>
 
 ---
 
-<h2 align="center">Engineering Highlights</h2>
+<h2 align="center">Engineering Profile</h2>
 
 <p align="center">
-  <b>High-Power Thermal Systems:</b> Designed resistor systems with approximately 100 kW of heat dissipation using liquid cooling
-  <br><br>
-  <b>Simulation-Driven Design:</b> Applied CFD and FEA for flow distribution, pressure drop, structural performance, and thermal validation
-  <br><br>
-  <b>Precision Interfaces:</b> Developed tolerance stack-ups for thermal contact, compression control, and long-term reliability
-  <br><br>
-  <b>Sealing Engineering:</b> Designed O-ring and face-seal interfaces for pressure containment and thermal cycling
-  <br><br>
-  <b>Manufacturing Optimization:</b> Reduced cost and complexity through DFM/DFA decisions and supplier collaboration
-  <br><br>
-  <b>End-to-End Ownership:</b> Led work from concept development through analysis, prototype evaluation, and production integration
+I develop thermal and electro-mechanical hardware for demanding operating environments.<br>
+My work spans concept development, analysis, prototype validation, manufacturing coordination, and production implementation.
 </p>
-
----
-
-<h2 align="center">Toolset</h2>
 
 <p align="center">
-  <b>CAD:</b> SolidWorks • NX • CATIA
-  <br><br>
-  <b>Simulation:</b> ANSYS • CFD • FEA • Conjugate Heat Transfer
-  <br><br>
-  <b>Engineering:</b> GD&T • Tolerance Analysis • Failure Modes
-  <br><br>
-  <b>Manufacturing:</b> DFM/DFA • Prototyping • Supplier Integration
+Primary interests include liquid cooling, high-power thermal systems, thermal interfaces, mechanical reliability, and simulation-driven product development.
 </p>
 
 ---
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Core Capabilities</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Thermal Systems</strong><br><br>
+      Liquid cooling architecture<br>
+      Heat-transfer design<br>
+      High heat-flux interfaces<br>
+      Pressure-drop management
+    </td>
+    <td align="center" width="33%">
+      <strong>Mechanical Engineering</strong><br><br>
+      Tolerance stack-up analysis<br>
+      Sealing and compression interfaces<br>
+      Materials and reliability<br>
+      GD&T and manufacturability
+    </td>
+    <td align="center" width="33%">
+      <strong>Product Development</strong><br><br>
+      CFD and FEA analysis<br>
+      Prototype development<br>
+      Supplier collaboration<br>
+      DFM/DFA and cost reduction
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Selected Work</h2>
 
 <p align="center">
-  joaquingenaro2003@gmail.com
-  <br><br>
-  linkedin.com/in/joaquin-coaquira
+  <strong>Liquid-Cooled Resistor Development</strong><br>
+  High-power electro-thermal system development integrating cooling architecture, thermal interfaces, structural clamping, electrical isolation, CFD, and prototype planning.
+</p>
+
+<p align="center">
+  <strong>Simulation-Driven Design</strong><br>
+  CFD and FEA studies supporting flow distribution, pressure drop, temperature control, structural behavior, and design tradeoffs.
+</p>
+
+<p align="center">
+  <strong>Engineering for Production</strong><br>
+  Design decisions balancing performance, tolerances, assembly strategy, supplier capability, material selection, reliability, and cost.
 </p>
 
 ---
+
+<h2 align="center">Technical Toolkit</h2>
+
+<p align="center">
+  <strong>Design:</strong> SolidWorks · NX · CATIA<br><br>
+  <strong>Analysis:</strong> ANSYS · CFD · FEA · Conjugate Heat Transfer<br><br>
+  <strong>Engineering:</strong> GD&T · Tolerance Analysis · Failure Modes · Thermal Design<br><br>
+  <strong>Development:</strong> DFM/DFA · Prototyping · Supplier Integration · Validation Planning
+</p>
+
+
+```
