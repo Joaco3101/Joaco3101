@@ -97,5 +97,3 @@ Primary interests include liquid cooling, high-power thermal systems, thermal in
   <strong>Development:</strong> DFM/DFA · Prototyping · Supplier Integration · Validation Planning
 </p>
 
-
-```
