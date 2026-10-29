@@ -1,19 +1,4 @@
 <!-- Copyright © 2026 Joaquin Coaquira. Unauthorized reproduction prohibited. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="70" viewBox="0 0 1400 70" role="img" aria-label="Footer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060912"/><stop offset="1" stop-color="#0A1424"/>
-    </linearGradient>
-    <linearGradient id="thermal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#3B82F6"/>
-      <stop offset="0.8" stop-color="#F97316"/><stop offset="1" stop-color="#EF4444"/>
-    </linearGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#5B7BA8" opacity="0.18"/>
-    </pattern></defs>
-  <rect x="0" y="10" width="1400" height="2" fill="url(#thermal)" opacity="0.7"/>
-  <circle cx="0" cy="11" r="4" fill="#E0F2FE">
-    <animate attributeName="cx" values="0;1400" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <text x="700.0" y="52" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="3" fill="#6B7F9E">DESIGN · ANALYZE · VALIDATE · PRODUCE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="120" viewBox="0 0 1400 120" role="img" aria-label="Designed and engineered by Joaquin Coaquira"><defs><linearGradient id="heat" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2997FF"/><stop offset="0.45" stop-color="#7A5CFF"/><stop offset="0.75" stop-color="#FF4F8B"/><stop offset="1" stop-color="#FF9F0A"/></linearGradient></defs><rect width="1400" height="120" rx="28" fill="#0D1117"/>
+  <path d="M56 1H1344" stroke="#2A2F37"/>
+  <text x="700.0" y="70" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="22" fill="#86868B">Designed and engineered by <tspan fill="#F5F5F7" font-weight="600">Joaquin Coaquira</tspan>.</text></svg>

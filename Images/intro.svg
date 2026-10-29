@@ -1,0 +1,9 @@
+<!-- Copyright © 2026 Joaquin Coaquira. Unauthorized reproduction prohibited. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380" role="img" aria-label="About"><defs><linearGradient id="heat" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2997FF"/><stop offset="0.45" stop-color="#7A5CFF"/><stop offset="0.75" stop-color="#FF4F8B"/><stop offset="1" stop-color="#FF9F0A"/></linearGradient></defs><rect width="1400" height="380" rx="28" fill="#0D1117"/><g transform="translate(60 30)">
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-0.8">
+    <text x="0" y="60" fill="#F5F5F7">I develop thermal and electro-mechanical hardware</text>
+    <text x="0" y="118" fill="#F5F5F7">for demanding operating environments. <tspan fill="#86868B">From concept</tspan></text>
+    <text x="0" y="176" fill="#86868B">and analysis to prototype validation, manufacturing</text>
+    <text x="0" y="234" fill="#86868B">coordination, and production.</text>
+  </g>
+  <text x="2" y="300" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="21" fill="#86868B">Interests  ·  liquid cooling  ·  high-power thermal systems  ·  thermal interfaces  ·  reliability  ·  simulation-driven development</text></g></svg>
