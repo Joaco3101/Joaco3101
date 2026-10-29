@@ -1,0 +1,20 @@
+<!-- Copyright © 2026 Joaquin Coaquira. Unauthorized reproduction prohibited. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="90" viewBox="0 0 1400 90" role="img" aria-label="Technical Toolkit">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060912"/><stop offset="1" stop-color="#0A1424"/>
+    </linearGradient>
+    <linearGradient id="thermal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="0.8" stop-color="#F97316"/><stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5B7BA8" opacity="0.18"/>
+    </pattern></defs>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="3" fill="#6EA8FE">
+    <text x="4" y="30">// 04  TOOLS</text>
+  </g>
+  <text x="2" y="72" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#8FB6EE" letter-spacing="-0.5">Technical Toolkit</text>
+  <rect x="331" y="60" width="1067" height="1.5" fill="#3B5B8A" opacity="0.5"/>
+  <rect x="331" y="59" width="80" height="3.5" rx="1.75" fill="url(#thermal)"/>
+</svg>

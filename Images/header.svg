@@ -1,0 +1,155 @@
+<!-- Copyright © 2026 Joaquin Coaquira. Unauthorized reproduction prohibited. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="t d">
+  <title id="t">Joaquin Coaquira — Mechanical / Product Engineer</title>
+  <desc id="d">Animated banner with a liquid-cooled cold plate: coolant flows through a serpentine channel beneath a heat source.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060912"/><stop offset="1" stop-color="#0A1424"/>
+    </linearGradient>
+    <linearGradient id="thermal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="0.8" stop-color="#F97316"/><stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5B7BA8" opacity="0.18"/>
+    </pattern>
+    <radialGradient id="glowB" cx="0.78" cy="0.35" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.28"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowO" cx="0.8" cy="0.2" r="0.32">
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.22"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#9CC3FF"/>
+    </linearGradient>
+    <linearGradient id="coolant" x1="0" y1="185" x2="0" y2="305" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="0.55" stop-color="#3B82F6"/><stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="die" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F97316"/><stop offset="0.5" stop-color="#EF4444"/><stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#132238"/><stop offset="1" stop-color="#0B1626"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0"/><stop offset="0.5" stop-color="#7DD3FC" stop-opacity="0.08"/><stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1400" height="460" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="460" fill="url(#bg)"/>
+    <rect width="1400" height="460" fill="url(#dots)"/>
+    <rect width="1400" height="460" fill="url(#glowB)"/>
+    <rect width="1400" height="460" fill="url(#glowO)"/>
+    <rect x="-400" y="0" width="400" height="460" fill="url(#sweep)">
+      <animate attributeName="x" values="-400;1400" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect y="0" width="1400" height="4" fill="url(#thermal)"/>
+
+    <!-- left: identity -->
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="2.5" fill="#6EA8FE">
+      <circle cx="78" cy="78" r="4.5" fill="#22C55E">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="94" y="83">ENGINEERING PORTFOLIO</text>
+    </g>
+
+    <text x="70" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="70" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Joaquin Coaquira</text>
+    <text x="73" y="208" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#6EA8FE">Mechanical / Product Engineer</text>
+
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#A3B3CB">
+      <text x="73" y="258">Designing electro-mechanical hardware where heat transfer,</text>
+      <text x="73" y="288">reliability, and production constraints intersect.</text>
+    </g>
+
+    <rect x="73" y="314" width="300" height="3" rx="1.5" fill="#1B2A44"/>
+    <rect x="73" y="314" width="90" height="3" rx="1.5" fill="url(#thermal)" filter="url(#glow)">
+      <animate attributeName="x" values="73;283;73" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(0 348)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
+      <rect x="72" y="0" width="170" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="157" y="21" text-anchor="middle" fill="#CFE0F7">Thermal Systems</text>
+      <rect x="252.28125" y="0" width="65" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="285" y="21" text-anchor="middle" fill="#CFE0F7">CFD</text>
+      <rect x="327.75" y="0" width="64" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="360" y="21" text-anchor="middle" fill="#CFE0F7">FEA</text>
+      <rect x="401.703125" y="0" width="67" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="435" y="21" text-anchor="middle" fill="#CFE0F7">CAD</text>
+      <rect x="478.4375" y="0" width="79" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="518" y="21" text-anchor="middle" fill="#CFE0F7">GD&amp;T</text>
+      <rect x="567.296875" y="0" width="105" height="32" rx="16" fill="#0E1A2E" stroke="#24406B"/><text x="620" y="21" text-anchor="middle" fill="#CFE0F7">DFM/DFA</text>
+    </g>
+
+    <!-- right: cold plate study -->
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#8B9BB4">
+      <text x="870" y="70">FIG. 01 — LIQUID COLD PLATE · CHT</text>
+      <rect x="870" y="80" width="420" height="1" fill="#1B2A44"/>
+    </g>
+
+    <!-- heat source -->
+    <g>
+      <rect x="960" y="104" width="240" height="38" rx="6" fill="url(#die)" opacity="0.92">
+        <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="960" y="104" width="240" height="38" rx="6" fill="none" stroke="#FDBA74" stroke-opacity="0.6"/>
+      <text x="1080" y="128" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#1A0A02" font-weight="700">HEAT SOURCE</text>
+      <rect x="950" y="142" width="260" height="10" fill="#334155" opacity="0.9"/>
+      <text x="1218" y="151" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#8B9BB4">TIM</text>
+      <!-- heat flux arrows -->
+      <g stroke="#F97316" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8">
+        <path d="M1000 154v8m-4 -4l4 4l4 -4"><animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/></path>
+        <path d="M1060 154v8m-4 -4l4 4l4 -4"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/></path>
+        <path d="M1120 154v8m-4 -4l4 4l4 -4"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></path>
+        <path d="M1160 154v8m-4 -4l4 4l4 -4"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></path>
+      </g>
+    </g>
+
+    <!-- plate body -->
+    <rect x="870" y="164" width="420" height="166" rx="12" fill="url(#plate)" stroke="#2A4268" stroke-width="1.5"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path id="chan" d="M820 185H1260A20 20 0 0 1 1260 225H900A20 20 0 0 0 900 265H1260A20 20 0 0 1 1260 305H1340"
+            stroke="#050A13" stroke-width="18"/>
+      <path d="M820 185H1260A20 20 0 0 1 1260 225H900A20 20 0 0 0 900 265H1260A20 20 0 0 1 1260 305H1340"
+            stroke="url(#coolant)" stroke-width="18" opacity="0.22"/>
+      <path d="M820 185H1260A20 20 0 0 1 1260 225H900A20 20 0 0 0 900 265H1260A20 20 0 0 1 1260 305H1340"
+            stroke="url(#coolant)" stroke-width="4" stroke-dasharray="14 18" filter="url(#glow)">
+        <animate attributeName="stroke-dashoffset" values="0;-64" dur="1.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <!-- moving coolant particle -->
+    <circle r="5" fill="#E0F2FE" filter="url(#glow)">
+      <animateMotion dur="6s" repeatCount="indefinite"
+        path="M820 185H1260A20 20 0 0 1 1260 225H900A20 20 0 0 0 900 265H1260A20 20 0 0 1 1260 305H1340"/>
+    </circle>
+
+    <!-- labels -->
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.5">
+      <text x="806" y="171" fill="#22D3EE">INLET →</text>
+      <text x="1290" y="290" fill="#F97316">→ OUTLET</text>
+    </g>
+
+    <!-- dimension line + feature control frame -->
+    <g stroke="#8B9BB4" stroke-width="1" fill="none" opacity="0.7">
+      <path d="M870 338v26M1290 338v26M876 356H1284"/>
+      <path d="M876 356l8 -4v8zM1284 356l-8 -4v8z" fill="#8B9BB4"/>
+    </g>
+    <g transform="translate(1004 372)" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#CFE0F7">
+      <rect width="152" height="24" fill="#0B1322" stroke="#4B607F"/>
+      <path d="M38 0v24M98 0v24M125 0v24" stroke="#4B607F"/>
+      <circle cx="19" cy="12" r="6" fill="none" stroke="#CFE0F7"/>
+      <path d="M10 12h18M19 3v18" stroke="#CFE0F7"/>
+      <text x="45" y="17">⌀0.05</text>
+      <text x="107" y="17">A</text>
+      <text x="134" y="17">B</text>
+    </g>
+
+    <!-- temperature legend -->
+    <g transform="translate(870 420)" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.5" fill="#8B9BB4">
+      <text x="0" y="0">T</text>
+      <rect x="16" y="-8" width="160" height="8" rx="4" fill="url(#thermal)"/>
+      <text x="186" y="0">LOW → HIGH</text>
+    </g>
+
+    <rect x="1" y="1" width="1398" height="458" rx="27" fill="none" stroke="#1B2A44" stroke-width="2"/>
+  </g>
+</svg>
