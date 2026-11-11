@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/hero.svg" width="100%" alt="Joaquin Coaquira. Mechanical / Product Engineer. Engineered for heat. Thermal and electro-mechanical hardware, from first principles to production.">
+  <img src="Images/hero.svg" width="100%" alt="Joaquin Coaquira. Mechanical / Product Engineer. Engineered for complexity. Thermal and electro-mechanical hardware, from first principles to production.">
 </p>
 
 <p align="center">
