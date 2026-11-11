@@ -16,7 +16,7 @@
 
   <text x="700" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" fill="#86868B">Mechanical / Product Engineer</text>
   <text x="700" y="178" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-3" fill="url(#nameG)">Joaquin Coaquira.</text>
-  <text x="700" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="url(#heat)">Engineered for heat.</text>
+  <text x="700" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="url(#heat)">Engineered for complexity.</text>
   <text x="700" y="298" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, 'Segoe UI', Arial, sans-serif" font-size="21" fill="#86868B">Thermal and electro-mechanical hardware, from first principles to production.</text>
 
   <!-- product render -->
